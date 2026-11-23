@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# data and models never go to git
+aotr-data/
+checkpoints/
+*.pt
+*.pth
+*.npz
+*.npy
+*.mp4
+*.mkv
+*.ppm
+
+# labelling artifacts
+detector/frames/
+detector/labels.jsonl
+detector/model*.pt
+
+# local config and secrets
+.env
+*.log
+
+# internal notes, not part of the public repo
+docs/outreach.md
+RESEARCH.md
+ROADMAP.md

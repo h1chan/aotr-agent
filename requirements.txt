@@ -1,0 +1,5 @@
+numpy>=2.0
+torch>=2.0
+
+# optional: only needed for the detector experiments in detector/
+# torchvision>=0.15
