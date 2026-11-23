@@ -8,6 +8,8 @@ The point is to learn game AI end to end: data collection, dataset design, model
 
 ![Agent playing in Trost](docs/demo.gif)
 
+[Full 52-second clip](docs/demo_full.gif) (8.8 MB, 5 fps)
+
 ## How it works
 
 ```
