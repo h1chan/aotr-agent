@@ -28,3 +28,6 @@ detector/model*.pt
 docs/outreach.md
 RESEARCH.md
 ROADMAP.md
+
+# third-party binary, install separately
+tools/yt-dlp
