@@ -6,6 +6,8 @@ The point is to learn game AI end to end: data collection, dataset design, model
 
 **Status: early. The agent moves, flies, hooks, and turns toward titans. It does not land hits yet.**
 
+![Agent playing in Trost](docs/demo.gif)
+
 ## How it works
 
 ```
