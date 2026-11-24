@@ -38,6 +38,7 @@ Observations:
 - Delta regression produced near-zero mouse output, correlation with human turns around zero.
 - Discrete mouse reached 42% direction accuracy over 9 classes after 5 epochs, and the camera visibly turns toward titans in game.
 - GRU was slower to train and did not beat the CNN at this data scale.
+- The 128×72 discrete model reached 0.435 direction accuracy. On 2026-11-24 it landed the first confirmed live kill: the HUD read `Slay Titans [1/23]` about 65 seconds into the run. Reliability is still low, and the virtual mouse can click menu buttons after death.
 
 ## Titan detector
 
