@@ -4,7 +4,7 @@ A research project on imitation learning for **Attack on Titan Revolution** (Rob
 
 The point is to learn game AI end to end: data collection, dataset design, model training, and running a policy in a live game under real latency limits.
 
-**Status: early. The agent moves, flies, hooks, and turns toward titans. It does not land hits yet.**
+**Status: early, but it works. The agent flies, hooks, keeps the camera on titans and has landed its first kill in a live run (`Slay Titans [1/23]`). It is not reliable yet: most attempts still end in under 30 seconds with no damage.**
 
 ![Agent playing in Trost](docs/demo.gif)
 
